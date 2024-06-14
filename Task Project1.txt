@@ -1,0 +1,3 @@
+Use wizard to Design SSIS Package to transfer 
+Department data From [ITI DB] to [Test Db]. 
+

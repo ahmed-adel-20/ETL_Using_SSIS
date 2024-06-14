@@ -1,0 +1,4 @@
+Use wizard to Design SSIS Package to transfer
+ Student data (St_id, St_Fname, St_lname, St_address) 
+From [ITI DB] to new Delimited file “Student.txt” 
+and set columns name as a first row in the file.

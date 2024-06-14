@@ -1,0 +1,4 @@
+Design SSIS Package to transfer Student data from [ITI DB] to [Test DB] with the following Criteria:
+a-Merge the first name and last name to be one field [Full name].
+b-Make a ful backup for [Test DB]
+c-On error  display message box “error occurred”

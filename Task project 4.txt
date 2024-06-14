@@ -1,0 +1,9 @@
+Design SSIS Package to Split Course data from [ITI DB] into 3 files with the following criteria:
+a-Select Course data with topic name From ITI DB
+b-Sort Course data by Crs_name Descending. 
+c-Crs_name should appear in lower case. 
+d-Split Course data into 3 files:
+i.File1.txt contains Course data with Course Duration<30 hours.
+ii.File2.txt contains Course data with Course Duration=30 hours.
+iii.File3.txt contains Course data with Course Duration>30 hours.
+Note: set columns name as first row in the files

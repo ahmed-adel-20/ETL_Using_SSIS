@@ -1,0 +1,2 @@
+try to merge the file1.txt and file2.txt to be one file:
+Use [Merge Component]. “Sort by Crs_name”
